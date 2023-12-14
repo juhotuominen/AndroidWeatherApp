@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="input_city_name">Input city name</string>
+    <string name="accuweather">AccuWeather</string>
+    <string name="back_to_main">Back to main</string>
+    <string name="get_weather">Get weather</string>
+    <string name="wind">wind</string>
+    <string name="temp">temp</string>
+    <string name="weather">weather</string>
+    <string name="city">city</string>
+    <string name="info">If you want to get current location via GPS, \n leave input space empty</string>
+</resources>

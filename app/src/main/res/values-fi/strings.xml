@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sää Sovellus</string>
+    <string name="input_city_name">Syötä kaupungin nimi</string>
+    <string name="accuweather">AccuWeather</string>
+    <string name="back_to_main">Takaisin alkuun</string>
+    <string name="get_weather">Hae sää</string>
+    <string name="wind">Tuuli</string>
+    <string name="temp">Lämpö</string>
+    <string name="weather">Sää</string>
+    <string name="city">Kaupunki</string>
+    <string name="info">Jos haluat tämän hetkisen sijaintisi,\njätä ylläoleva kenttä tyhjäksi</string>
+</resources>
